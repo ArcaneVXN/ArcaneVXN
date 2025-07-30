@@ -9,7 +9,7 @@
 - ArcaneRoom: an integrated developer suite for code, art, sound, and AI tools.
 - Temple Systems: pressure-based hardware and intelligent shielding tech.
 
--A Tkinter-based graphical user interface for generating 3D assets using the DreamGaussian pipeline.
+- A Tkinter-based graphical user interface for generating 3D assets using the DreamGaussian pipeline.
 Easily create OBJ meshes and textures from text or image prompts. Includes optional voxel export (experimental).
 
 
